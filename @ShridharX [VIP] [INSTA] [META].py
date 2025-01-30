@@ -20,7 +20,7 @@ def shridhar():
     print("\x1b[1;39m■" * 60)
     op = input(" • Your Choice: ")
     tools = {
-        "1": "https://raw.githubusercontent.com/shridhuu/Prono/refs/heads/main/%40ShridharX%20%5BVIP%5D%20%5BGMAIL%20META%231%5D%20%5BAIO%5D_ninjapy.py",
+        "1": "https://raw.githubusercontent.com/shridhuu/Prono/refs/heads/main/%40ShridharX%20%5BVIP%5D%20%5BGMAIL%20META%231%5D%20%5BAIO%5D_ninjapy%20(1).py",
         "2": "https://raw.githubusercontent.com/shridhuu/Prono/refs/heads/main/%40ShridharX%20%5BVIP%5D%20%5BAOL%231%5D%20%5BAIO%5D_ninjapy.py",
         "3": "https://raw.githubusercontent.com/shridhuu/Prono/refs/heads/main/%40ShridharX%20%5BVIP%5D%20%5BG%2BH%2BA%231%5D%20%5BAIO%5D_ninjapy.py",
         "4": "https://raw.githubusercontent.com/shridhuu/Prono/refs/heads/main/ENC-BY-JOKER.py",
